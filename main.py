@@ -26,7 +26,7 @@ SCREEN_HEIGHT = 500
 display_screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))  
   
 # setting the title of the application using the set_caption() function  
-pygame.display.set_caption('Flappy Bird BY BRANDON')  
+pygame.display.set_caption('Flappy Bird BY BRANDON!')  
   
 # defining the font style  
 fontStyle = pygame.font.SysFont('arial black', 55)  
